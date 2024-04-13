@@ -1,13 +1,16 @@
 # ai
 Let's have a place to collect and share current deep learning links.
 
+## General Links
+
+- [](https://paperswithcode.com/sota)
 
 ## Research Stack
 
 ### Articles
 
-- 13.04.2024 https://www.science.org/doi/10.1126/scirobotics.adi8022
-- 15.03.2024 https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/
+- 13.04.2024 [Soccerbots - Google](https://www.science.org/doi/10.1126/scirobotics.adi8022) https://www.science.org/doi/10.1126/scirobotics.adi8022
+- 15.03.2024 [3d Agent - Goolgle](https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/
 
 ## Embedded Stack
 
@@ -21,7 +24,8 @@ March 2024
 
 
 ## Text Stack
-
+### Base Models
+- [gemma-2b](https://huggingface.co/google/gemma-2b) https://huggingface.co/google/gemma-2b
 ### Models HuggingFace 
 
 - [Mixtral-8x22B](https://huggingface.co/mistral-community/Mixtral-8x22B-v0.1-4bit) https://huggingface.co/mistral-community/Mixtral-8x22B-v0.1-4bit
