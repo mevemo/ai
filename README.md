@@ -12,6 +12,7 @@ This repository is designed to collect and share cutting-edge resources related 
 - [Ein Treiber der RTX4090 GPUs miteinander verbindet](https://github.com/tinygrad/open-gpu-kernel-modules) - Geohot and tinygrad open source NVIDEA GPU connection via P2P
 
 ### Articles
+- [LoRa training guide - ](https://civitai.com/articles/3105/essential-to-advanced-guide-to-training-a-lora) Ziemlich guter Artikel der erklaert wie LoRA funktioniert (und wie man ein funktionierendes LoRA macht)
 - [Soccerbots - Google](https://www.science.org/doi/10.1126/scirobotics.adi8022) - Insight into AI-driven robotics in sports (Published on 13.04.2024).
 - [3D Agent - Google](https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/) - Discussion on generalist AI agents in 3D environments (Published on 15.03.2024).
 
