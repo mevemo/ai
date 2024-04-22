@@ -16,6 +16,10 @@ This repository is designed to collect and share cutting-edge resources related 
 - [Soccerbots - Google](https://www.science.org/doi/10.1126/scirobotics.adi8022) - Insight into AI-driven robotics in sports (Published on 13.04.2024).
 - [3D Agent - Google](https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/) - Discussion on generalist AI agents in 3D environments (Published on 15.03.2024).
 
+### Videos
+
+- ()[https://www.youtube.com/watch?v=Ft0gTO2K85A] - OpenAI Co-Founder Ilya Sutskever on Future of AI
+
 ## Embedded Stack
 ### April 2024
 - [Octopus-v2 by NexaAI on HuggingFace](https://huggingface.co/NexaAIDev/Octopus-v2)
