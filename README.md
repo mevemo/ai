@@ -1,20 +1,5 @@
 # AI Resource Index
 
-A compact, maintained index of AI research, models, tools, and infrastructure.
-The focus is on resources that are useful for builders: model releases,
-evaluation trackers, agent frameworks, local inference stacks, and practical
-learning material.
-
-Last reviewed: June 2026
-
-## How to Use This Repository
-
-- Start with the trackers if you want a fast view of the current landscape.
-- Use the model sections to compare frontier APIs, open-weight models, and local
-  deployment options.
-- Treat links as starting points, not endorsements. Always verify model licenses,
-  data-use terms, pricing, and benchmark methodology before production use.
-
 ## Landscape Trackers
 
 - [Papers with Code - SOTA](https://paperswithcode.com/sota): Benchmark and
